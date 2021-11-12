@@ -5,9 +5,9 @@ import "@fontsource/maven-pro";
 import './assets/style.css'
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+
+  <App />
+  ,
   document.querySelector('#root')
 );
 
