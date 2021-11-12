@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fibonacheck/static/css/main.ce665f5f.chunk.css",
+    "main.js": "/fibonacheck/static/js/main.e4554dd9.chunk.js",
+    "main.js.map": "/fibonacheck/static/js/main.e4554dd9.chunk.js.map",
+    "runtime-main.js": "/fibonacheck/static/js/runtime-main.36bdcd29.js",
+    "runtime-main.js.map": "/fibonacheck/static/js/runtime-main.36bdcd29.js.map",
+    "static/css/2.afba55dd.chunk.css": "/fibonacheck/static/css/2.afba55dd.chunk.css",
+    "static/js/2.d2b47c26.chunk.js": "/fibonacheck/static/js/2.d2b47c26.chunk.js",
+    "static/js/2.d2b47c26.chunk.js.map": "/fibonacheck/static/js/2.d2b47c26.chunk.js.map",
+    "index.html": "/fibonacheck/index.html",
+    "precache-manifest.500c1f25738fa8eaa51a6f89a6a9b1d7.js": "/fibonacheck/precache-manifest.500c1f25738fa8eaa51a6f89a6a9b1d7.js",
+    "service-worker.js": "/fibonacheck/service-worker.js",
+    "static/css/2.afba55dd.chunk.css.map": "/fibonacheck/static/css/2.afba55dd.chunk.css.map",
+    "static/css/main.ce665f5f.chunk.css.map": "/fibonacheck/static/css/main.ce665f5f.chunk.css.map",
+    "static/js/2.d2b47c26.chunk.js.LICENSE.txt": "/fibonacheck/static/js/2.d2b47c26.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/fibonacheck/static/media/logo.14ab0040.png",
+    "static/media/index.css": "/fibonacheck/static/media/maven-pro-vietnamese-400-normal.9677e4e1.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36bdcd29.js",
+    "static/css/2.afba55dd.chunk.css",
+    "static/js/2.d2b47c26.chunk.js",
+    "static/css/main.ce665f5f.chunk.css",
+    "static/js/main.e4554dd9.chunk.js"
+  ]
+}
